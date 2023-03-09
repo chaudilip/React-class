@@ -1,24 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
-
+// import MyButton from './MyButton';
+// import MyList from './MyList';
+// import PromisesFirst from './PromisesFirst';
+// import './App.css';
+// import HooksUseFirst from './HooksUseFirst';
+// import MyList from './MyList';
+import HooksUseEffect from "./HooksUseEffect";
+import ShowHide from "./ShowHide";
 function App() {
+  // const list = ["dilip","raj","hardik","aman","nirav"];
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+  <div>
+    {/* <MyList list={list} /> */}
+    {/* <MyButton disable={false} text={"firstButton"}/> */}
+   {/* <MyList list={list}/> */}
+    {/* <PromisesFirst /> */}
+    {/* <HooksUseFirst /> */}
+    {/* <HooksUseEffect /> */}
+    <ShowHide />
+  </div>
   );
 }
 
