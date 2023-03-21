@@ -75,6 +75,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 👉 Write npm install for download the all the moduls.
 
-👉 suggesions are appreciated ✨
-
 👉 Follow For More Updates.❤️
