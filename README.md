@@ -74,5 +74,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### React Class Based Props , useState , useEffect , props , Functional component ❤️.
 
 👉 Write npm install for download the all the moduls.
-👉 Suggestions are appriciated ❤️
 👉 Follow For More Updates.❤️
